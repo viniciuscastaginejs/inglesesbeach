@@ -10,6 +10,7 @@ Site estático em HTML, CSS e JavaScript, compatível com GitHub Pages e o domí
 - quartos/jurere.html
 - quartos/lagoa.html
 - quartos/jacuzzi.html
+- area-externa.html — fotos da área externa (jardim, piscina, espaço gourmet, churrasqueiras, acesso à areia).
 - eventos.html — espaço para eventos.
 
 ## Idiomas
